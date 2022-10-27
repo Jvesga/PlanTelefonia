@@ -5,4 +5,10 @@
 Crear un programa para gestionar un plan de telefonia movil. El plan tiene un numero de celular, un operador, una cantidad de minutos y un costo por minuto. Calcular el total a pagar teniendo en cuenta que si el operador el "movilujo" tiene un 50% de descuento. Usar minimo dos metodos constructores.
 
 Diagrama de clases
-![Diagrama de clase](class-diagram.svg)
+
+![Diagramadeclase](class-diagram.svg)
+
+Ejecucion   
+
+![Capturadepantalla](Captura desde 2022-10-26 22-58-48.png)
+
