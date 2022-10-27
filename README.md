@@ -10,5 +10,5 @@ Diagrama de clases
 
 Ejecucion   
 
-![Capturadepantalla](Captura desde 2022-10-26 22-58-48.png)
+https://github.com/Jvesga/PlanTelefonia/blob/main/Captura%20desde%202022-10-26%2022-58-48.png
 
