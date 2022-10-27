@@ -6,7 +6,7 @@ Crear un programa para gestionar un plan de telefonia movil. El plan tiene un nu
 
 Diagrama de clases
 
-![Diagramadeclase](class-diagram.svg)
+![Diagramadeclase](https://github.com/Jvesga/PlanTelefonia/blob/main/WhatsApp%20Image%202022-10-27%20at%206.53.17%20AM.jpeg)
 
 Ejecucion   
 
