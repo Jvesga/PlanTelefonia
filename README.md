@@ -10,5 +10,5 @@ Diagrama de clases
 
 Ejecucion   
 
-https://github.com/Jvesga/PlanTelefonia/blob/main/Captura%20desde%202022-10-26%2022-58-48.png
+![ProgemaEjecutandose](https://github.com/Jvesga/PlanTelefonia/blob/main/Captura%20desde%202022-10-26%2022-58-48.png)
 
