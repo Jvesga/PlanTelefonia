@@ -18,6 +18,7 @@ public class PanelOperaciones extends JPanel
     //----------------------
     public JButton bAñadir;
     public JButton bSaldo;
+    public JButton bSalir;
     
     //----------------------
     //Metodos
@@ -40,10 +41,19 @@ public class PanelOperaciones extends JPanel
         
         bSaldo = new JButton("Calcular saldo");
         bSaldo.setFont(new Font("Arial", BOLD, 12));
-        bSaldo.setBounds(200,20,120,20);
+        bSaldo.setBounds(180,20,120,20);
         add(bSaldo);
         bSaldo.setActionCommand("Saldo");
         bSaldo.setEnabled(false);
+
+        bSalir = new JButton("Salir");
+        bSalir.setFont(new Font("Arial", BOLD, 12));
+        bSalir.setBounds(80,20,120,20);
+        add(bSalir);
+        bSalir.setActionCommand("Salir");
+        bSalir.setEnabled(false);
+
+
         
         //Borde y titulo del panel
         TitledBorder borde = BorderFactory.createTitledBorder("Operaciones");
@@ -55,6 +65,7 @@ public class PanelOperaciones extends JPanel
     {
         bAñadir.addActionListener(pAL);
         bSaldo.addActionListener(pAL);
+        bSalir.addActionListener(pAL);
     }
     
     public void desactivarBotonCrear()
@@ -64,6 +75,7 @@ public class PanelOperaciones extends JPanel
     
     public void activarBotones()
     {
+        bSalir.setEnabled(true);
         bSaldo.setEnabled(true);
     }
 }
